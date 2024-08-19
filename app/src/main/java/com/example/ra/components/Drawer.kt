@@ -64,7 +64,7 @@ fun DrawerHeader() {
         contentAlignment = Alignment.Center
     ) {
         Text(
-            text = "Películas",
+            text = "Películas.",
 //            color = MaterialTheme.colorScheme.primary,
             fontSize = 20.sp,
             fontWeight = FontWeight.Bold
